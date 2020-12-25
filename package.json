@@ -1,0 +1,17 @@
+{
+  "name": "tradingbot",
+  "version": "1.0.0",
+  "description": "Crypto trading bot on steroids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cryptocompare": "^1.0.0",
+    "gemini-api": "^2.0.4",
+    "node-fetch": "^2.6.1",
+    "yarn": "^1.22.10"
+  }
+}
